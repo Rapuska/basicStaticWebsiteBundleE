@@ -11,7 +11,6 @@
 
 <br>
 
-> [!NOTE]
 > Loin tehtävää varten erillisen styles.css-tiedoston, jossa määrittelin taustavärin sekä tekstin värin.
 
 <br>
@@ -22,11 +21,11 @@
 
 <br>
 
-### Tässä sama kuva GFM:llä lisättynä 
+### Tässä sama kuva vielä GFM:llä lisättynä 
 
 ![Mäyryli](mayra.jpeg)
 
-> <sub>En löytänyt tapaa muokata kuvan kokoa suoraan GFM:ssä :´(</sub>
+> En löytänyt tapaa muokata kuvan kokoa suoraan GFM:ssä :´(
 
 <br>
 
