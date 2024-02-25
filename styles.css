@@ -2,3 +2,8 @@ body {
     background-color: #0D1117;
     color: #E6EDF3;
 }
+
+#kuva-id {
+    width: 400px; 
+    height: auto; 
+}
