@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Tämä on pilvipalvelu-opintojakson bundle E tehtävän web-sivu
 
 ## Tämän web-sivun tuli täyttää alla listatut kriteerit:
